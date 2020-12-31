@@ -5,7 +5,7 @@ class CreateBooks < ActiveRecord::Migration[5.2]
       t.string :author
       t.string :genre
       t.text :summary
-      t.integer :number_solid
+      t.integer :number_sold
 
       t.timestamps
     end

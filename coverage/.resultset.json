@@ -57,7 +57,7 @@
           1
         ]
       },
-      "/Users/james/turing/mod2/api_builder/config/environments/development.rb": {
+      "/Users/james/turing/mod2/api_builder/config/environments/test.rb": {
         "lines": [
           1,
           null,
@@ -65,27 +65,9 @@
           null,
           null,
           null,
-          1,
-          null,
           null,
           1,
           null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          1,
-          0,
-          null,
-          0,
-          0,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
           null,
           null,
           null,
@@ -93,7 +75,12 @@
           null,
           null,
           1,
+          1,
           null,
+          null,
+          null,
+          null,
+          1,
           1,
           null,
           null,
@@ -105,13 +92,18 @@
           null,
           1,
           null,
-          null,
-          null,
+          1,
           null,
           null,
           null,
           null,
           1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -216,11 +208,11 @@
         "lines": [
           1,
           1,
-          2,
-          1,
-          1,
-          1,
-          1,
+          4,
+          4,
+          4,
+          4,
+          4,
           null,
           null
         ]
@@ -235,21 +227,26 @@
           1,
           null,
           null,
-          null
-        ]
-      },
-      "/Users/james/turing/mod2/api_builder/spec/support/factory_bot.rb": {
-        "lines": [
+          1,
           1,
           null,
-          1,
-          1,
+          null,
           null
         ]
       },
       "/Users/james/turing/mod2/api_builder/app/models/book.rb": {
         "lines": [
           1,
+          4,
+          null,
+          1,
+          1,
+          3,
+          2,
+          null,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -260,22 +257,57 @@
           null
         ]
       },
-      "/Users/james/turing/mod2/api_builder/spec/requests/api/v1/books_request_spec.rb": {
+      "/Users/james/turing/mod2/api_builder/app/controllers/api/v2/books_controller.rb": {
         "lines": [
           1,
-          null,
           1,
           1,
           1,
           null,
-          0,
           null,
-          0,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/james/turing/mod2/api_builder/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/james/turing/mod2/api_builder/app/serializers/book_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          3,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1609451357
+    "timestamp": 1609456207
   }
 }
